@@ -1,5 +1,5 @@
 
-In this project, I put together a simple pipeline for recognizing license plates from images using a neural network on PyTorch. Everything is done in the form of a Jupyter notebook.
+#In this project, I put together a simple pipeline for recognizing license plates from images using a neural network on PyTorch. Everything is done in the form of a Jupyter notebook.
 
 ## What's going on here
 
