@@ -1,4 +1,3 @@
-<img width="389" height="389" alt="image" src="https://github.com/user-attachments/assets/2b436237-245f-457c-9f4d-246acde2bf90" /># CarPlates2 — Neural network for recognizing license plates
 
 In this project, I put together a simple pipeline for recognizing license plates from images using a neural network on PyTorch. Everything is done in the form of a Jupyter notebook.
 
