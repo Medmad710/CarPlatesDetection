@@ -7,7 +7,7 @@
 - Wrote my own class for data preparation using PyTorch Dataset
 - Implemented a simple model architecture (like VGG)
 - Set up training (Adam optimizer, loss function — MSELoss)
-- Took into account acceleration via GPU and cuDNN
+- Accelerated training using GPU and cuDNN
 - Trained the model and saved the weights several times
 - Visualized the prediction results
 
